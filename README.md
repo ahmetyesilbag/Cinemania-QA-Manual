@@ -45,6 +45,8 @@ Bu proje, **Cinemania Web Application** için gerçekleştirdiğim uçtan uca ma
 
 ✔ Proje board görüntüleri (Trello)
 
+---
+
 👨‍💻 Hakkımda
 
 Bu proje, QA alanındaki becerilerimi geliştirmek, test süreçlerini uygulamalı olarak deneyimlemek ve gerçek bir proje akışı üzerinde çalışma pratiği kazanmak amacıyla gerçekleştirilmiştir.
